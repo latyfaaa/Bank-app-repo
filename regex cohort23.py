@@ -9,13 +9,13 @@
 # SPLIT FUNCTION USING REGEX
 
 
-# COREY SCHAFER
+ #COREY SCHAFER
 
 # import re
 # 2 - SIMPLE CHARACTER MATCHES
 import re
 
-# text = 'cat bat mat rat mat mat'
+text = 'cat bat mat rat mat mat'
 # pattern = 'mat'
 # re.findall('the patter would go here', 'the text would go here'
 # output = re.findall(pattern,text)
